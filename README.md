@@ -35,29 +35,46 @@
 ```json
 
 {
-    "name": "gulp-path",
-    "version": "3.0.3",
+    "author": {
+        "name": "Klaus Kazlauskas"
+    },
+    "bugs": {
+        "url": "https://github.com/klauskpm/gulp-path/issues"
+    },
+    "dependencies": {},
     "description": "Creates file's paths in a simple and organized way",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "a15390a30ca970969203ed122270920e8da3a55f",
+        "tarball": "https://registry.npmjs.org/gulp-path/-/gulp-path-3.0.3.tgz"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/klauskpm/gulp-path.git"
-    },
+    "gitHead": "04387c495bc0e1be8f66ed8e816e6149440e91ce",
+    "homepage": "https://github.com/klauskpm/gulp-path",
     "keywords": [
         "gulp",
         "path",
         "gulp-path",
         "gulp-paths"
     ],
-    "author": "Klaus Kazlauskas <klausmachado@gmail.com>",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/klauskpm/gulp-path/issues"
+    "main": "index.js",
+    "maintainers": [
+        {
+            "name": "klauskpm"
+        }
+    ],
+    "name": "gulp-path",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/klauskpm/gulp-path.git"
     },
-    "homepage": "https://github.com/klauskpm/gulp-path"
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "3.0.3",
+    "bin": {}
 }
 ```
 
